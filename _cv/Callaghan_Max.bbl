@@ -1,552 +1,310 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{44}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{zhang_2023_2023}
-\FormatName{Shihui Zhang}, \FormatName{Chi Zhang}, \FormatName{Wenjia Cai},
-  \FormatName{Yuqi Bai}, \FormatName{Max Callaghan}, \FormatName{Nan Chang},
-  \FormatName{Bin Chen}, \FormatName{Huiqi Chen}, \FormatName{Liangliang
-  Cheng}, \FormatName{Hancheng Dai}, \FormatName{Xin Dai}, \FormatName{Weicheng
-  Fan}, \FormatName{Xiaoyi Fang}, \FormatName{Tong Gao}, \FormatName{Yang
-  Geng}, \FormatName{Dabo Guan}, \FormatName{Yixin Hu}, \FormatName{Junyi Hua},
-  \FormatName{Cunrui Huang}, \FormatName{Hong Huang}, \FormatName{Jianbin
-  Huang}, \FormatName{Xiaomeng Huang}, \FormatName{John~S. Ji},
-  \FormatName{Qiaolei Jiang}, \FormatName{Xiaopeng Jiang}, \FormatName{Gregor
-  Kiesewetter}, \FormatName{Tiantian Li}, \FormatName{Lu~Liang},
-  \FormatName{Borong Lin}, \FormatName{Hualiang Lin}, \FormatName{Huan Liu},
-  \FormatName{Qiyong Liu}, \FormatName{Xiaobo Liu}, \FormatName{Zhao Liu},
-  \FormatName{Zhu Liu}, \FormatName{Yufu Liu}, \FormatName{Bo~Lu},
-  \FormatName{Chenxi Lu}, \FormatName{Zhenyu Luo}, \FormatName{Wei Ma},
-  \FormatName{Zhifu Mi}, \FormatName{Chao Ren}, \FormatName{Marina Romanello},
-  \FormatName{Jianxiang Shen}, \FormatName{Jing Su}, \FormatName{Yuze Sun},
-  \FormatName{Xinlu Sun}, \FormatName{Xu~Tang}, \FormatName{Maria Walawender},
-  \FormatName{Can Wang}, \FormatName{Qing Wang}, \FormatName{Rui Wang},
-  \FormatName{Laura Warnecke}, \FormatName{Wangyu Wei}, \FormatName{Sanmei
-  Wen}, \FormatName{Yang Xie}, \FormatName{Hui Xiong}, \FormatName{Bing Xu},
-  \FormatName{Yu~Yan}, \FormatName{Xiu Yang}, \FormatName{Fanghong Yao},
-  \FormatName{Le~Yu}, \FormatName{Jiacan Yuan}, \FormatName{Yiping Zeng},
-  \FormatName{Jing Zhang}, \FormatName{Lu~Zhang}, \FormatName{Rui Zhang},
-  \FormatName{Shangchen Zhang}, \FormatName{Shaohui Zhang},
-  \FormatName{Mengzhen Zhao}, \FormatName{Dashan Zheng}, \FormatName{Hao Zhou},
-  \FormatName{Jingbo Zhou}, \FormatName{Ziqiao Zhou}, \FormatName{Yong Luo},
-  and \FormatName{Peng Gong}.
-\newblock The 2023 {{China}} report of the {{Lancet Countdown}} on health and
-  climate change: Taking stock for a thriving future.
-\newblock {\em The Lancet Public Health}, 8(12):e978--e995, December 2023.
+\bibitem[Callaghan et~al.(2025)Callaghan, Banisch, {Doebbeling-Hildebrandt}, Edmondson, Flachsland, Lamb, Levi, {M{\"u}ller-Hansen}, Posada, Vasudevan, and Minx]{callaghanMachineLearningMap2025}
+Callaghan, M. et~al.
+\newblock Machine learning map of climate policy literature reveals disparities between scientific attention, policy density, and emissions.
+\newblock \emph{npj Climate Action}, 4\penalty0 (1):\penalty0 1--14, February 2025.
+\newblock ISSN 2731-9814.
+\newblock \doi{10.1038/s44168-024-00196-0}.
 
-\bibitem{smith_state_2023}
-\FormatName{S~M Smith}, \FormatName{O~Geden}, \FormatName{G~F Nemet},
-  \FormatName{M~J Gidden}, \FormatName{W~F Lamb}, \FormatName{C~Powis},
-  \FormatName{R~Bellamy}, \FormatName{M~W Callaghan}, \FormatName{A~Cowie},
-  \FormatName{E~Cox}, \FormatName{S~Fuss}, \FormatName{T~Gasser},
-  \FormatName{G~Grassi}, \FormatName{J~Greene}, \FormatName{S~L{\"u}ck},
-  \FormatName{A~Mohan}, \FormatName{F~{M{\"u}ller-Hansen}}, \FormatName{G~P
-  Peters}, \FormatName{Y~Pratama}, \FormatName{T~Repke}, \FormatName{K~Riahi},
-  \FormatName{F~Schenuit}, \FormatName{J~Steinhauser}, \FormatName{J~Strefler},
-  \FormatName{J~M Valenzuela}, and \FormatName{J~C Minx}.
+\bibitem[{D{\"o}bbeling-Hildebrandt} et~al.(2024){D{\"o}bbeling-Hildebrandt}, Miersch, Khanna, Bachelet, Bruns, Callaghan, Edenhofer, Flachsland, Forster, Kalkuhl, Koch, Lamb, Ohlendorf, Steckel, and Minx]{dobbeling-hildebrandtSystematicReviewMetaanalysis2024}
+{D{\"o}bbeling-Hildebrandt}, N. et~al.
+\newblock Systematic review and meta-analysis of ex-post evaluations on the effectiveness of carbon pricing.
+\newblock \emph{Nature Communications}, 15\penalty0 (1):\penalty0 4147, May 2024.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/s41467-024-48512-w}.
+
+\bibitem[Callaghan et~al.(2024)Callaghan, {M{\"u}ller-Hansen}, Bond, Hamel, Devane, Kusa, {O'Mara-Eves}, Spijker, Stevenson, Stansfield, Thomas, and Minx]{callaghanComputerassistedScreeningSystematic2024}
+Callaghan, M. et~al.
+\newblock Computer-assisted screening in systematic evidence synthesis requires robust and well-evaluated stopping criteria.
+\newblock \emph{Systematic Reviews}, 13\penalty0 (1):\penalty0 284, November 2024.
+\newblock ISSN 2046-4053.
+\newblock \doi{10.1186/s13643-024-02699-7}.
+
+\bibitem[Young et~al.(2024)Young, Lagisz, Callaghan, Nakagawa, and Haddaway]{youngCollaborationTermUsage2024}
+Young, S. et~al.
+\newblock Collaboration and term usage dynamics in agricultural buffer strip research: {{Research}} weaving.
+\newblock \emph{Ecological Solutions and Evidence}, 5\penalty0 (3):\penalty0 e12376, 2024.
+\newblock ISSN 2688-8319.
+\newblock \doi{10.1002/2688-8319.12376}.
+
+\bibitem[Danilenko et~al.(2024)Danilenko, Andrijevic, Sietsma, Callaghan, and Khanna]{danilenkoWomenAreUnderrepresented2024}
+Danilenko, D. et~al.
+\newblock Women are under-represented in adaptation policy research and are more likely to emphasise justice topics.
+\newblock \emph{Environmental Research: Climate}, 3\penalty0 (4):\penalty0 045010, August 2024.
+\newblock ISSN 2752-5295.
+\newblock \doi{10.1088/2752-5295/ad6f3b}.
+
+\bibitem[van Daalen et~al.(2024)van Daalen, Tonne, Semenza, Rockl{\"o}v, Markandya, Dasandi, Jankin, Achebak, Ballester, Bechara, Beck, Callaghan, Carvalho, Chambers, Pradas, Courtenay, Dasgupta, Eckelman, Farooq, Fransson, Gallo, Gasparyan, {Gonzalez-Reviriego}, Hamilton, H{\"a}nninen, Hatfield, He, Kazmierczak, Kendrovski, Kennard, Kiesewetter, Kouznetsov, Kriit, {Llabr{\'e}s-Brustenga}, Lloyd, Batista, Maia, {Martinez-Urtaza}, Mi, Mil{\`a}, Minx, Nieuwenhuijsen, Palamarchuk, Pantera, {Quijal-Zamorano}, Rafaj, Robinson, {S{\'a}nchez-Valdivia}, Scamman, Schmoll, Sewe, Sherman, Singh, Sirotkina, Sj{\"o}din, Sofiev, {Solaraju-Murali}, Springmann, Treskova, Tri{\~n}anes, Vanuytrecht, Wagner, Walawender, Warnecke, Zhang, Romanello, Ant{\'o}, Nilsson, and Lowe]{daalen2024EuropeReport2024}
+van Daalen, K.R. et~al.
+\newblock The 2024 {{Europe}} report of the {{Lancet Countdown}} on health and climate change: Unprecedented warming demands unprecedented action.
+\newblock \emph{The Lancet Public Health}, 9\penalty0 (7):\penalty0 e495--e522, July 2024.
+\newblock ISSN 2468-2667.
+\newblock \doi{10.1016/S2468-2667(24)00055-0}.
+
+\bibitem[Cai et~al.(2024)Cai, Zhang, Zhang, Bai, Callaghan, Chang, Chen, Chen, Cheng, Dai, Fan, Guan, Hu, Hu, Hua, Huang, Huang, Huang, Huang, Ji, Jiang, Jiang, Kiesewetter, Li, Li, Liang, Lin, Lin, Liu, Liu, Liu, Liu, Liu, Lou, Lu, Lu, Luo, Mi, Miao, Ren, Romanello, Shen, Su, Su, Sun, Sun, Walawender, Wang, Wang, Wang, Warnecke, Wei, Wei, Wen, Xie, Xiong, Xu, Yang, Yang, Yao, Yu, Yu, Yuan, Zeng, Zhang, Zhang, Zhang, Zhang, Zhao, Zhao, Zhao, Zheng, Zhou, Zhou, Zhou, Luo, and Gong]{cai2024ChinaReport2024}
+Cai, W. et~al.
+\newblock The 2024 {{China}} report of the {{Lancet Countdown}} on health and climate change: Launching a new low-carbon, healthy journey.
+\newblock \emph{The Lancet Public Health}, 9\penalty0 (12):\penalty0 e1070--e1088, December 2024.
+\newblock ISSN 2468-2667.
+\newblock \doi{10.1016/S2468-2667(24)00241-X}.
+
+\bibitem[Romanello et~al.(2024)Romanello, Walawender, Hsu, Moskeland, {Palmeiro-Silva}, Scamman, Ali, Ameli, Angelova, {Ayeb-Karlsson}, Basart, Beagley, Beggs, {Blanco-Villafuerte}, Cai, Callaghan, {Campbell-Lendrum}, Chambers, {Chicmana-Zapata}, Chu, Cross, van Daalen, Dalin, Dasandi, Dasgupta, Davies, Dubrow, Eckelman, Ford, Freyberg, Gasparyan, {Gordon-Strachan}, Grubb, Gunther, Hamilton, Hang, H{\"a}nninen, Hartinger, He, Heidecke, Hess, Jamart, Jankin, Jatkar, Jay, Kelman, Kennard, Kiesewetter, Kinney, Kniveton, Kouznetsov, Lampard, Lee, Lemke, Li, Liu, Liu, {Llabr{\'e}s-Brustenga}, Lott, Lowe, {Martinez-Urtaza}, Maslin, McAllister, McMichael, Mi, Milner, Minor, Minx, Mohajeri, Momen, {Moradi-Lakeh}, Morrisey, Munzert, Murray, Obradovich, O'Hare, Oliveira, Oreszczyn, Otto, Owfi, Pearman, Pega, Perishing, {Pinho-Gomes}, Ponmattam, Rabbaniha, Rickman, Robinson, Rockl{\"o}v, {Rojas-Rueda}, Salas, Semenza, Sherman, {Shumake-Guillemot}, Singh, Sj{\"o}din, Slater, Sofiev, Sorensen, Springmann, Stalhandske, Stowell, Tabatabaei, Taylor, Tong, Tonne, Treskova, Trinanes, Uppstu, Wagner, Warnecke, Whitcombe, Xian, {Zavaleta-Cortijo}, Zhang, Zhang, Zhang, Zhang, Zhu, Gong, Montgomery, and Costello]{romanello2024ReportLancet2024}
+Romanello, M. et~al.
+\newblock The 2024 report of the {{Lancet Countdown}} on health and climate change: Facing record-breaking threats from delayed action.
+\newblock \emph{The Lancet}, 0\penalty0 (0), October 2024.
+\newblock ISSN 0140-6736, 1474-547X.
+\newblock \doi{10.1016/S0140-6736(24)01822-1}.
+
+\bibitem[Repke et~al.(2024)Repke, Callaghan, Lamb, L{\"u}ck, {M{\"u}ller-Hansen}, and Minx]{repkeHowGlobalCrises2024}
+Repke, T. et~al.
+\newblock How global crises compete for our attention: {{Insights}} from 13.5 million tweets on climate change during {{COVID-19}}.
+\newblock \emph{Energy Research \& Social Science}, 116:\penalty0 103668, October 2024.
+\newblock ISSN 2214-6296.
+\newblock \doi{10.1016/j.erss.2024.103668}.
+
+\bibitem[{M{\"u}ller-Hansen} et~al.(2023){M{\"u}ller-Hansen}, Repke, Baum, Brutschin, Callaghan, Debnath, Lamb, Low, L{\"u}ck, Roberts, Sovacool, and Minx]{muller-hansenAttentionSentimentsEmotions2023}
+{M{\"u}ller-Hansen}, F. et~al.
+\newblock Attention, sentiments and emotions towards emerging climate technologies on {{Twitter}}.
+\newblock \emph{Global Environmental Change}, 83:\penalty0 102765, December 2023.
+\newblock ISSN 0959-3780.
+\newblock \doi{10.1016/j.gloenvcha.2023.102765}.
+
+\bibitem[Zhang et~al.(2023)Zhang, Zhang, Cai, Bai, Callaghan, Chang, Chen, Chen, Cheng, Dai, Dai, Fan, Fang, Gao, Geng, Guan, Hu, Hua, Huang, Huang, Huang, Huang, Ji, Jiang, Jiang, Kiesewetter, Li, Liang, Lin, Lin, Liu, Liu, Liu, Liu, Liu, Liu, Lu, Lu, Luo, Ma, Mi, Ren, Romanello, Shen, Su, Sun, Sun, Tang, Walawender, Wang, Wang, Wang, Warnecke, Wei, Wen, Xie, Xiong, Xu, Yan, Yang, Yao, Yu, Yuan, Zeng, Zhang, Zhang, Zhang, Zhang, Zhang, Zhao, Zheng, Zhou, Zhou, Zhou, Luo, and Gong]{zhang2023ChinaReport2023}
+Zhang, S. et~al.
+\newblock The 2023 {{China}} report of the {{Lancet Countdown}} on health and climate change: Taking stock for a thriving future.
+\newblock \emph{The Lancet Public Health}, 8\penalty0 (12):\penalty0 e978--e995, December 2023.
+\newblock ISSN 2468-2667.
+\newblock \doi{10.1016/S2468-2667(23)00245-1}.
+
+\bibitem[Repke et~al.(2023)Repke, Callaghan, Lamb, L{\"u}ck, {M{\"u}ller-Hansen}, and Minx]{repkeAttentionClimateChange2023}
+Repke, T. et~al.
+\newblock Attention to climate change only temporarily diverted by {{COVID-19}}.
+\newblock \emph{Submitted to Environmental Research Communications}, 2023.
+
+\bibitem[Romanello et~al.(2023)Romanello, di~Napoli, Green, Kennard, Lampard, Scamman, Walawender, Ali, Ameli, {Ayeb-Karlsson}, Beggs, Belesova, Ford, Bowen, Cai, Callaghan, {Campbell-Lendrum}, Chambers, Cross, van Daalen, Dalin, Dasandi, Dasgupta, Davies, {Dominguez-Salas}, Dubrow, Ebi, Eckelman, Ekins, Freyberg, Gasparyan, {Gordon-Strachan}, Graham, Gunther, Hamilton, Hang, H{\"a}nninen, Hartinger, He, Heidecke, Hess, Hsu, Jamart, Jankin, Jay, Kelman, Kiesewetter, Kinney, Kniveton, Kouznetsov, Larosa, Lee, Lemke, Liu, Liu, Lott, Batista, Lowe, Sewe, {Martinez-Urtaza}, Maslin, McAllister, McMichael, Mi, Milner, Minor, Minx, Mohajeri, Momen, {Moradi-Lakeh}, Morrissey, Munzert, Murray, Neville, Nilsson, Obradovich, O'Hare, Oliveira, Oreszczyn, Otto, Owfi, Pearman, Pega, Pershing, Rabbaniha, Rickman, Robinson, Rockl{\"o}v, Salas, Semenza, Sherman, {Shumake-Guillemot}, Silbert, Sofiev, Springmann, Stowell, Tabatabaei, Taylor, Thompson, Tonne, Treskova, Trinanes, Wagner, Warnecke, Whitcombe, Winning, Wyns, {Yglesias-Gonz{\'a}lez}, Zhang, Zhang, Zhu, Gong, Montgomery, and Costello]{romanello2023ReportLancet2023}
+Romanello, M. et~al.
+\newblock The 2023 report of the {{Lancet Countdown}} on health and climate change: The imperative for a health-centred response in a world facing irreversible harms.
+\newblock \emph{The Lancet}, 402\penalty0 (10419):\penalty0 2346--2394, December 2023.
+\newblock ISSN 0140-6736, 1474-547X.
+\newblock \doi{10.1016/S0140-6736(23)01859-7}.
+
+\bibitem[Smith et~al.(2023)Smith, Geden, Nemet, Gidden, Lamb, Powis, Bellamy, Callaghan, Cowie, Cox, Fuss, Gasser, Grassi, Greene, L{\"u}ck, Mohan, {M{\"u}ller-Hansen}, Peters, Pratama, Repke, Riahi, Schenuit, Steinhauser, Strefler, Valenzuela, and Minx]{smithStateCarbonDioxide2023}
+Smith, S.M. et~al.
 \newblock The {{State}} of {{Carbon Dioxide Removal}} - 1st {{Edition}}.
-\newblock Technical report, {The State of Carbon Dioxide Removal}, 2023.
+\newblock Technical report, The State of Carbon Dioxide Removal, 2023.
 
-\bibitem{romanello_2023_2023}
-\FormatName{Marina Romanello}, \FormatName{Claudia di~Napoli},
-  \FormatName{Carole Green}, \FormatName{Harry Kennard}, \FormatName{Pete
-  Lampard}, \FormatName{Daniel Scamman}, \FormatName{Maria Walawender},
-  \FormatName{Zakari Ali}, \FormatName{Nadia Ameli}, \FormatName{Sonja
-  {Ayeb-Karlsson}}, \FormatName{Paul~J. Beggs}, \FormatName{Kristine Belesova},
-  \FormatName{Lea~Berrang Ford}, \FormatName{Kathryn Bowen}, \FormatName{Wenjia
-  Cai}, \FormatName{Max Callaghan}, \FormatName{Diarmid {Campbell-Lendrum}},
-  \FormatName{Jonathan Chambers}, \FormatName{Troy~J. Cross},
-  \FormatName{Kim~R. van Daalen}, \FormatName{Carole Dalin}, \FormatName{Niheer
-  Dasandi}, \FormatName{Shouro Dasgupta}, \FormatName{Michael Davies},
-  \FormatName{Paula {Dominguez-Salas}}, \FormatName{Robert Dubrow},
-  \FormatName{Kristie~L. Ebi}, \FormatName{Matthew Eckelman}, \FormatName{Paul
-  Ekins}, \FormatName{Chris Freyberg}, \FormatName{Olga Gasparyan},
-  \FormatName{Georgiana {Gordon-Strachan}}, \FormatName{Hilary Graham},
-  \FormatName{Samuel~H. Gunther}, \FormatName{Ian Hamilton}, \FormatName{Yun
-  Hang}, \FormatName{Risto H{\"a}nninen}, \FormatName{Stella Hartinger},
-  \FormatName{Kehan He}, \FormatName{Julian Heidecke}, \FormatName{Jeremy~J.
-  Hess}, \FormatName{Shih-Che Hsu}, \FormatName{Louis Jamart},
-  \FormatName{Slava Jankin}, \FormatName{Ollie Jay}, \FormatName{Ilan Kelman},
-  \FormatName{Gregor Kiesewetter}, \FormatName{Patrick Kinney},
-  \FormatName{Dominic Kniveton}, \FormatName{Rostislav Kouznetsov},
-  \FormatName{Francesca Larosa}, \FormatName{Jason K.~W. Lee},
-  \FormatName{Bruno Lemke}, \FormatName{Yang Liu}, \FormatName{Zhao Liu},
-  \FormatName{Melissa Lott}, \FormatName{Mart{\'i}n~Lotto Batista},
-  \FormatName{Rachel Lowe}, \FormatName{Maquins~Odhiambo Sewe},
-  \FormatName{Jaime {Martinez-Urtaza}}, \FormatName{Mark Maslin},
-  \FormatName{Lucy McAllister}, \FormatName{Celia McMichael}, \FormatName{Zhifu
-  Mi}, \FormatName{James Milner}, \FormatName{Kelton Minor}, \FormatName{Jan~C.
-  Minx}, \FormatName{Nahid Mohajeri}, \FormatName{Natalie~C. Momen},
-  \FormatName{Maziar {Moradi-Lakeh}}, \FormatName{Karyn Morrissey},
-  \FormatName{Simon Munzert}, \FormatName{Kris~A. Murray}, \FormatName{Tara
-  Neville}, \FormatName{Maria Nilsson}, \FormatName{Nick Obradovich},
-  \FormatName{Megan~B. O'Hare}, \FormatName{Camile Oliveira}, \FormatName{Tadj
-  Oreszczyn}, \FormatName{Matthias Otto}, \FormatName{Fereidoon Owfi},
-  \FormatName{Olivia Pearman}, \FormatName{Frank Pega}, \FormatName{Andrew
-  Pershing}, \FormatName{Mahnaz Rabbaniha}, \FormatName{Jamie Rickman},
-  \FormatName{Elizabeth J.~Z. Robinson}, \FormatName{Joacim Rockl{\"o}v},
-  \FormatName{Renee~N. Salas}, \FormatName{Jan~C. Semenza}, \FormatName{Jodi~D.
-  Sherman}, \FormatName{Joy {Shumake-Guillemot}}, \FormatName{Grant Silbert},
-  \FormatName{Mikhail Sofiev}, \FormatName{Marco Springmann},
-  \FormatName{Jennifer~D. Stowell}, \FormatName{Meisam Tabatabaei},
-  \FormatName{Jonathon Taylor}, \FormatName{Ross Thompson}, \FormatName{Cathryn
-  Tonne}, \FormatName{Marina Treskova}, \FormatName{Joaquin~A. Trinanes},
-  \FormatName{Fabian Wagner}, \FormatName{Laura Warnecke}, \FormatName{Hannah
-  Whitcombe}, \FormatName{Matthew Winning}, \FormatName{Arthur Wyns},
-  \FormatName{Marisol {Yglesias-Gonz{\'a}lez}}, \FormatName{Shihui Zhang},
-  \FormatName{Ying Zhang}, \FormatName{Qiao Zhu}, \FormatName{Peng Gong},
-  \FormatName{Hugh Montgomery}, and \FormatName{Anthony Costello}.
-\newblock The 2023 report of the {{Lancet Countdown}} on health and climate
-  change: The imperative for a health-centred response in a world facing
-  irreversible harms.
-\newblock {\em The Lancet}, 402(10419):2346--2394, December 2023.
+\bibitem[Romanello et~al.(2022)Romanello, Napoli, Drummond, Green, Kennard, Lampard, Scamman, Arnell, {Ayeb-Karlsson}, Ford, Belesova, Bowen, Cai, Callaghan, {Campbell-Lendrum}, Chambers, van Daalen, Dalin, Dasandi, Dasgupta, Davies, {Dominguez-Salas}, Dubrow, Ebi, Eckelman, Ekins, Escobar, Georgeson, Graham, Gunther, Hamilton, Hang, H{\"a}nninen, Hartinger, He, Hess, Hsu, Jankin, Jamart, Jay, Kelman, Kiesewetter, Kinney, Kjellstrom, Kniveton, Lee, Lemke, Liu, Liu, Lott, Batista, Lowe, MacGuire, Sewe, {Martinez-Urtaza}, Maslin, McAllister, McGushin, McMichael, Mi, Milner, Minor, Minx, Mohajeri, {Moradi-Lakeh}, Morrissey, Munzert, Murray, Neville, Nilsson, Obradovich, O'Hare, Oreszczyn, Otto, Owfi, Pearman, Rabbaniha, Robinson, Rockl{\"o}v, Salas, Semenza, Sherman, Shi, {Shumake-Guillemot}, Silbert, Sofiev, Springmann, Stowell, Tabatabaei, Taylor, Tri{\~n}anes, Wagner, Wilkinson, Winning, {Yglesias-Gonz{\'a}lez}, Zhang, Gong, Montgomery, and Costello]{romanello2022ReportLancet2022}
+Romanello, M. et~al.
+\newblock The 2022 report of the {{Lancet Countdown}} on health and climate change: Health at the mercy of fossil fuels.
+\newblock \emph{The Lancet}, 400\penalty0 (10363):\penalty0 1619--1654, November 2022.
+\newblock ISSN 0140-6736, 1474-547X.
+\newblock \doi{10.1016/S0140-6736(22)01540-9}.
 
-\bibitem{repke_attention_2023}
-\FormatName{Tim Repke}, \FormatName{Max Callaghan}, \FormatName{William~F.
-  Lamb}, \FormatName{Sarah L{\"u}ck}, \FormatName{Finn {M{\"u}ller-Hansen}},
-  and \FormatName{Jan~C. Minx}.
-\newblock Attention to climate change only temporarily diverted by
-  {{COVID-19}}.
-\newblock {\em Submitted to Environmental Research Communications}, 2023.
+\bibitem[{M{\"u}ller-Hansen} et~al.(2022){M{\"u}ller-Hansen}, Lee, Callaghan, Jankin, and Minx]{muller-hansenGermanCoalDebate2022}
+{M{\"u}ller-Hansen}, F. et~al.
+\newblock The {{German}} coal debate on {{Twitter}}: {{Reactions}} to a corporate policy process.
+\newblock \emph{Energy Policy}, 169:\penalty0 113178, October 2022.
+\newblock ISSN 0301-4215.
+\newblock \doi{10.1016/j.enpol.2022.113178}.
 
-\bibitem{muller-hansen_attention_2023-1}
-\FormatName{Finn {M{\"u}ller-Hansen}}, \FormatName{Tim Repke},
-  \FormatName{Chad~M. Baum}, \FormatName{Elina Brutschin}, \FormatName{Max~W.
-  Callaghan}, \FormatName{Ramit Debnath}, \FormatName{William~F. Lamb},
-  \FormatName{Sean Low}, \FormatName{Sarah L{\"u}ck}, \FormatName{Cameron
-  Roberts}, \FormatName{Benjamin~K. Sovacool}, and \FormatName{Jan~C. Minx}.
-\newblock Attention, sentiments and emotions towards emerging climate
-  technologies on {{Twitter}}.
-\newblock {\em Global Environmental Change}, 83:102765, December 2023.
-
-\bibitem{cai_2022_2022}
-\FormatName{Wenjia Cai}, \FormatName{Chi Zhang}, \FormatName{Shihui Zhang},
-  \FormatName{Yuqi Bai}, \FormatName{Max Callaghan}, \FormatName{Nan Chang},
-  \FormatName{Bin Chen}, \FormatName{Huiqi Chen}, \FormatName{Liangliang
-  Cheng}, \FormatName{Xueqin Cui}, \FormatName{Hancheng Dai},
-  \FormatName{Bawuerjiang Danna}, \FormatName{Wenxuan Dong},
-  \FormatName{Weicheng Fan}, \FormatName{Xiaoyi Fang}, \FormatName{Tong Gao},
-  \FormatName{Yang Geng}, \FormatName{Dabo Guan}, \FormatName{Yixin Hu},
-  \FormatName{Junyi Hua}, \FormatName{Cunrui Huang}, \FormatName{Hong Huang},
-  \FormatName{Jianbin Huang}, \FormatName{Linlang Jiang}, \FormatName{Qiaolei
-  Jiang}, \FormatName{Xiaopeng Jiang}, \FormatName{Hu~Jin}, \FormatName{Gregor
-  Kiesewetter}, \FormatName{Lu~Liang}, \FormatName{Borong Lin},
-  \FormatName{Hualiang Lin}, \FormatName{Huan Liu}, \FormatName{Qiyong Liu},
-  \FormatName{Tao Liu}, \FormatName{Xiaobo Liu}, \FormatName{Xinyuan Liu},
-  \FormatName{Zhao Liu}, \FormatName{Zhu Liu}, \FormatName{Shuhan Lou},
-  \FormatName{Chenxi Lu}, \FormatName{Zhenyu Luo}, \FormatName{Wenjun Meng},
-  \FormatName{Hui Miao}, \FormatName{Chao Ren}, \FormatName{Marina Romanello},
-  \FormatName{Wolfgang Sch{\"o}pp}, \FormatName{Jing Su}, \FormatName{Xu~Tang},
-  \FormatName{Can Wang}, \FormatName{Qiong Wang}, \FormatName{Laura Warnecke},
-  \FormatName{Sanmei Wen}, \FormatName{Wilfried Winiwarter}, \FormatName{Yang
-  Xie}, \FormatName{Bing Xu}, \FormatName{Yu~Yan}, \FormatName{Xiu Yang},
-  \FormatName{Fanghong Yao}, \FormatName{Le~Yu}, \FormatName{Jiacan Yuan},
-  \FormatName{Yiping Zeng}, \FormatName{Jing Zhang}, \FormatName{Lu~Zhang},
-  \FormatName{Rui Zhang}, \FormatName{Shangchen Zhang}, \FormatName{Shaohui
-  Zhang}, \FormatName{Qi~Zhao}, \FormatName{Dashan Zheng}, \FormatName{Hao
-  Zhou}, \FormatName{Jingbo Zhou}, \FormatName{Margaret Fu-Chun~Chan Fung},
-  \FormatName{Yong Luo}, and \FormatName{Peng Gong}.
-\newblock The 2022 {{China}} report of the {{Lancet Countdown}} on health and
-  climate change: Leveraging climate actions for healthy ageing.
-\newblock {\em The Lancet Public Health}, 0(0), October 2022.
-
-\bibitem{romanello_2022_2022}
-\FormatName{Marina Romanello}, \FormatName{Claudia~Di Napoli}, \FormatName{Paul
-  Drummond}, \FormatName{Carole Green}, \FormatName{Harry Kennard},
-  \FormatName{Pete Lampard}, \FormatName{Daniel Scamman}, \FormatName{Nigel
-  Arnell}, \FormatName{Sonja {Ayeb-Karlsson}}, \FormatName{Lea~Berrang Ford},
-  \FormatName{Kristine Belesova}, \FormatName{Kathryn Bowen},
-  \FormatName{Wenjia Cai}, \FormatName{Max Callaghan}, \FormatName{Diarmid
-  {Campbell-Lendrum}}, \FormatName{Jonathan Chambers}, \FormatName{Kim~R. van
-  Daalen}, \FormatName{Carole Dalin}, \FormatName{Niheer Dasandi},
-  \FormatName{Shouro Dasgupta}, \FormatName{Michael Davies}, \FormatName{Paula
-  {Dominguez-Salas}}, \FormatName{Robert Dubrow}, \FormatName{Kristie~L. Ebi},
-  \FormatName{Matthew Eckelman}, \FormatName{Paul Ekins}, \FormatName{Luis~E.
-  Escobar}, \FormatName{Lucien Georgeson}, \FormatName{Hilary Graham},
-  \FormatName{Samuel~H. Gunther}, \FormatName{Ian Hamilton}, \FormatName{Yun
-  Hang}, \FormatName{Risto H{\"a}nninen}, \FormatName{Stella Hartinger},
-  \FormatName{Kehan He}, \FormatName{Jeremy~J. Hess}, \FormatName{Shih-Che
-  Hsu}, \FormatName{Slava Jankin}, \FormatName{Louis Jamart}, \FormatName{Ollie
-  Jay}, \FormatName{Ilan Kelman}, \FormatName{Gregor Kiesewetter},
-  \FormatName{Patrick Kinney}, \FormatName{Tord Kjellstrom},
-  \FormatName{Dominic Kniveton}, \FormatName{Jason K.~W. Lee},
-  \FormatName{Bruno Lemke}, \FormatName{Yang Liu}, \FormatName{Zhao Liu},
-  \FormatName{Melissa Lott}, \FormatName{Martin~Lotto Batista},
-  \FormatName{Rachel Lowe}, \FormatName{Frances MacGuire},
-  \FormatName{Maquins~Odhiambo Sewe}, \FormatName{Jaime {Martinez-Urtaza}},
-  \FormatName{Mark Maslin}, \FormatName{Lucy McAllister}, \FormatName{Alice
-  McGushin}, \FormatName{Celia McMichael}, \FormatName{Zhifu Mi},
-  \FormatName{James Milner}, \FormatName{Kelton Minor}, \FormatName{Jan~C.
-  Minx}, \FormatName{Nahid Mohajeri}, \FormatName{Maziar {Moradi-Lakeh}},
-  \FormatName{Karyn Morrissey}, \FormatName{Simon Munzert}, \FormatName{Kris~A.
-  Murray}, \FormatName{Tara Neville}, \FormatName{Maria Nilsson},
-  \FormatName{Nick Obradovich}, \FormatName{Megan~B. O'Hare}, \FormatName{Tadj
-  Oreszczyn}, \FormatName{Matthias Otto}, \FormatName{Fereidoon Owfi},
-  \FormatName{Olivia Pearman}, \FormatName{Mahnaz Rabbaniha},
-  \FormatName{Elizabeth J.~Z. Robinson}, \FormatName{Joacim Rockl{\"o}v},
-  \FormatName{Renee~N. Salas}, \FormatName{Jan~C. Semenza}, \FormatName{Jodi~D.
-  Sherman}, \FormatName{Liuhua Shi}, \FormatName{Joy {Shumake-Guillemot}},
-  \FormatName{Grant Silbert}, \FormatName{Mikhail Sofiev}, \FormatName{Marco
-  Springmann}, \FormatName{Jennifer Stowell}, \FormatName{Meisam Tabatabaei},
-  \FormatName{Jonathon Taylor}, \FormatName{Joaquin Tri{\~n}anes},
-  \FormatName{Fabian Wagner}, \FormatName{Paul Wilkinson}, \FormatName{Matthew
-  Winning}, \FormatName{Marisol {Yglesias-Gonz{\'a}lez}}, \FormatName{Shihui
-  Zhang}, \FormatName{Peng Gong}, \FormatName{Hugh Montgomery}, and
-  \FormatName{Anthony Costello}.
-\newblock The 2022 report of the {{Lancet Countdown}} on health and climate
-  change: Health at the mercy of fossil fuels.
-\newblock {\em The Lancet}, 400(10363):1619--1654, November 2022.
-
-\bibitem{daalen_2022_2022}
-\FormatName{Kim~R. van Daalen}, \FormatName{Marina Romanello},
-  \FormatName{Joacim Rockl{\"o}v}, \FormatName{Jan~C. Semenza},
-  \FormatName{Cathryn Tonne}, \FormatName{Anil Markandya}, \FormatName{Niheer
-  Dasandi}, \FormatName{Slava Jankin}, \FormatName{Hicham Achebak},
-  \FormatName{Joan Ballester}, \FormatName{Hannah Bechara}, \FormatName{Max~W.
-  Callaghan}, \FormatName{Jonathan Chambers}, \FormatName{Shouro Dasgupta},
-  \FormatName{Paul Drummond}, \FormatName{Zia Farooq}, \FormatName{Olga
-  Gasparyan}, \FormatName{Nube {Gonzalez-Reviriego}}, \FormatName{Ian
-  Hamilton}, \FormatName{Risto H{\"a}nninen}, \FormatName{Aleksandra
-  Kazmierczak}, \FormatName{Vladimir Kendrovski}, \FormatName{Harry Kennard},
-  \FormatName{Gregor Kiesewetter}, \FormatName{Simon~J. Lloyd},
-  \FormatName{Martin~Lotto Batista}, \FormatName{Jaime {Martinez-Urtaza}},
-  \FormatName{Carles Mil{\`a}}, \FormatName{Jan~C. Minx}, \FormatName{Mark
-  Nieuwenhuijsen}, \FormatName{Julia Palamarchuk}, \FormatName{Marcos
-  {Quijal-Zamorano}}, \FormatName{Elizabeth J.~Z. Robinson}, \FormatName{Daniel
-  Scamman}, \FormatName{Oliver Schmoll}, \FormatName{Maquins~Odhiambo Sewe},
-  \FormatName{Henrik Sj{\"o}din}, \FormatName{Mikhail Sofiev},
-  \FormatName{Balakrishnan {Solaraju-Murali}}, \FormatName{Marco Springmann},
-  \FormatName{Joaquin Tri{\~n}anes}, \FormatName{Josep~M. Anto},
-  \FormatName{Maria Nilsson}, and \FormatName{Rachel Lowe}.
-\newblock The 2022 {{Europe}} report of the {{Lancet Countdown}} on health and
-  climate change: Towards a climate resilient future.
-\newblock {\em The Lancet Public Health}, 7(11):e942--e965, November 2022.
-
-\bibitem{callaghan_what_2022}
-\FormatName{Max Callaghan}, \FormatName{Shraddha Vasudevan}, \FormatName{Lucy
-  Banisch}, \FormatName{Niklas Doebbeling}, \FormatName{Duncan Edmondson},
-  \FormatName{Christian Flachsland}, \FormatName{William Lamb},
-  \FormatName{Sebastian Levi}, \FormatName{Finn {M{\"u}ller-Hansen}},
-  \FormatName{Eduardo Posada}, and \FormatName{Jan~Christoph Minx}.
-\newblock What is the evidence on climate mitigation policies, and to what
-  extent can it be identified and classified using {{Machine Learning}}? {{A}}
-  machine-learning-assisted systematic map protocol.
+\bibitem[Callaghan et~al.(2022)Callaghan, Vasudevan, Banisch, Doebbeling, Edmondson, Flachsland, Lamb, Levi, {M{\"u}ller-Hansen}, Posada, and Minx]{callaghanWhatEvidenceClimate2022}
+Callaghan, M. et~al.
+\newblock What is the evidence on climate mitigation policies, and to what extent can it be identified and classified using {{Machine Learning}}? {{A}} machine-learning-assisted systematic map protocol.
 \newblock 2022.
+\newblock \doi{10.21203/rs.3.pex-1910/v1}.
 
-\bibitem{creutzig_demand-side_2022}
-\FormatName{Felix Creutzig}, \FormatName{Leila Niamir}, \FormatName{Xuemei
-  Bai}, \FormatName{Max Callaghan}, \FormatName{Jonathan Cullen},
-  \FormatName{Julio {D{\'i}az-Jos{\'e}}}, \FormatName{Maria Figueroa},
-  \FormatName{Arnulf Grubler}, \FormatName{William~F. Lamb}, \FormatName{Adrian
-  Leip}, \FormatName{Eric Masanet}, \FormatName{{\'E}rika Mata},
-  \FormatName{Linus Mattauch}, \FormatName{Jan~C. Minx}, \FormatName{Sebastian
-  Mirasgedis}, \FormatName{Yacob Mulugetta}, \FormatName{Sudarmanto~Budi
-  Nugroho}, \FormatName{Minal Pathak}, \FormatName{Patricia Perkins},
-  \FormatName{Joyashree Roy}, \FormatName{Stephane {de la Rue du Can}},
-  \FormatName{Yamina Saheb}, \FormatName{Shreya Some}, \FormatName{Linda Steg},
-  \FormatName{Julia Steinberger}, and \FormatName{Diana {\"U}rge-Vorsatz}.
-\newblock Demand-side solutions to climate change mitigation consistent with
-  high levels of well-being.
-\newblock {\em Nature Climate Change}, 12(1):36--46, January 2022.
+\bibitem[Creutzig et~al.(2022)Creutzig, Niamir, Bai, Callaghan, Cullen, {D{\'i}az-Jos{\'e}}, Figueroa, Grubler, Lamb, Leip, Masanet, Mata, Mattauch, Minx, Mirasgedis, Mulugetta, Nugroho, Pathak, Perkins, Roy, {de la Rue du Can}, Saheb, Some, Steg, Steinberger, and {\"U}rge-Vorsatz]{creutzigDemandsideSolutionsClimate2022}
+Creutzig, F. et~al.
+\newblock Demand-side solutions to climate change mitigation consistent with high levels of well-being.
+\newblock \emph{Nature Climate Change}, 12\penalty0 (1):\penalty0 36--46, January 2022.
+\newblock ISSN 1758-6798.
+\newblock \doi{10.1038/s41558-021-01219-y}.
 
-\bibitem{muller-hansen_german_2022-1}
-\FormatName{Finn {M{\"u}ller-Hansen}}, \FormatName{Yuan~Ting Lee},
-  \FormatName{Max Callaghan}, \FormatName{Slava Jankin}, and \FormatName{Jan~C.
-  Minx}.
-\newblock The {{German}} coal debate on {{Twitter}}: {{Reactions}} to a
-  corporate policy process.
-\newblock {\em Energy Policy}, 169:113178, October 2022.
+\bibitem[van Daalen et~al.(2022)van Daalen, Romanello, Rockl{\"o}v, Semenza, Tonne, Markandya, Dasandi, Jankin, Achebak, Ballester, Bechara, Callaghan, Chambers, Dasgupta, Drummond, Farooq, Gasparyan, {Gonzalez-Reviriego}, Hamilton, H{\"a}nninen, Kazmierczak, Kendrovski, Kennard, Kiesewetter, Lloyd, Batista, {Martinez-Urtaza}, Mil{\`a}, Minx, Nieuwenhuijsen, Palamarchuk, {Quijal-Zamorano}, Robinson, Scamman, Schmoll, Sewe, Sj{\"o}din, Sofiev, {Solaraju-Murali}, Springmann, Tri{\~n}anes, Anto, Nilsson, and Lowe]{daalen2022EuropeReport2022}
+van Daalen, K.R. et~al.
+\newblock The 2022 {{Europe}} report of the {{Lancet Countdown}} on health and climate change: Towards a climate resilient future.
+\newblock \emph{The Lancet Public Health}, 7\penalty0 (11):\penalty0 e942--e965, November 2022.
+\newblock ISSN 2468-2667.
+\newblock \doi{10.1016/S2468-2667(22)00197-9}.
 
-\bibitem{creutzig_reviewing_2021}
-\FormatName{Felix Creutzig}, \FormatName{Max Callaghan}, \FormatName{Anjali
-  Ramakrishnan}, \FormatName{Aneeque Javaid}, \FormatName{Leila Niamir},
-  \FormatName{Jan Minx}, \FormatName{Finn {M{\"u}ller-Hansen}},
-  \FormatName{Benjamin Sovacool}, \FormatName{Zakia Afroz}, \FormatName{Mark
-  Andor}, \FormatName{Miklos Antal}, \FormatName{Victor Court},
-  \FormatName{Nandini Das}, \FormatName{Julio {D{\'i}az-Jos{\'e}}},
-  \FormatName{Friederike D{\"o}bbe}, \FormatName{Maria~J. Figueroa},
-  \FormatName{Andrew Gouldson}, \FormatName{Helmut Haberl}, \FormatName{Andrew
-  Hook}, \FormatName{Diana Ivanova}, \FormatName{William~F. Lamb},
-  \FormatName{Nadia Ma{\"i}zi}, \FormatName{{\'E}rika Mata},
-  \FormatName{Kristian~S. Nielsen}, \FormatName{Chioma~Daisy Onyige},
-  \FormatName{Lucia~A. Reisch}, \FormatName{Joyashree Roy}, \FormatName{Pauline
-  Scheelbeek}, \FormatName{Mahendra Sethi}, \FormatName{Shreya Some},
-  \FormatName{Steven Sorrell}, \FormatName{Mathilde Tessier}, \FormatName{Tania
-  Urmee}, \FormatName{Doris Vir{\'a}g}, \FormatName{Can Wan},
-  \FormatName{Dominik Wiedenhofer}, and \FormatName{Charlie Wilson}.
-\newblock Reviewing the scope and thematic focus of 100,000 publications on
-  energy consumption, services and social aspects of climate change: A big data
-  approach to demand-side mitigation.
-\newblock {\em Environmental Research Letters}, 16(3):033001, February 2021.
+\bibitem[Cai et~al.(2022)Cai, Zhang, Zhang, Bai, Callaghan, Chang, Chen, Chen, Cheng, Cui, Dai, Danna, Dong, Fan, Fang, Gao, Geng, Guan, Hu, Hua, Huang, Huang, Huang, Jiang, Jiang, Jiang, Jin, Kiesewetter, Liang, Lin, Lin, Liu, Liu, Liu, Liu, Liu, Liu, Liu, Lou, Lu, Luo, Meng, Miao, Ren, Romanello, Sch{\"o}pp, Su, Tang, Wang, Wang, Warnecke, Wen, Winiwarter, Xie, Xu, Yan, Yang, Yao, Yu, Yuan, Zeng, Zhang, Zhang, Zhang, Zhang, Zhang, Zhao, Zheng, Zhou, Zhou, Fung, Luo, and Gong]{cai2022ChinaReport2022}
+Cai, W. et~al.
+\newblock The 2022 {{China}} report of the {{Lancet Countdown}} on health and climate change: Leveraging climate actions for healthy ageing.
+\newblock \emph{The Lancet Public Health}, 0\penalty0 (0), October 2022.
+\newblock ISSN 2468-2667.
+\newblock \doi{10.1016/S2468-2667(22)00224-9}.
 
-\bibitem{diluiso_coal_2021}
-\FormatName{Francesca Diluiso}, \FormatName{Paula Walk},
-  \FormatName{Niccol{\`o} Manych}, \FormatName{Nicola Cerutti},
-  \FormatName{Vladislav Chipiga}, \FormatName{Annabelle Workman},
-  \FormatName{Ceren Ayas}, \FormatName{Ryna~Yiyun Cui}, \FormatName{Diyang
-  Cui}, \FormatName{Kaihui Song}, \FormatName{Lucy~A. Banisch},
-  \FormatName{Nikolaj Moretti}, \FormatName{Max~W. Callaghan}, \FormatName{Leon
-  Clarke}, \FormatName{Felix Creutzig}, \FormatName{J{\'e}r{\^o}me Hilaire},
-  \FormatName{Frank Jotzo}, \FormatName{Matthias Kalkuhl},
-  \FormatName{William~F. Lamb}, \FormatName{Andreas L{\"o}schel},
-  \FormatName{Finn {M{\"u}ller-Hansen}}, \FormatName{Gregory~F. Nemet},
-  \FormatName{Pao-Yu Oei}, \FormatName{Benjamin~K. Sovacool},
-  \FormatName{Jan~C. Steckel}, \FormatName{Sebastian Thomas}, \FormatName{John
-  Wiseman}, and \FormatName{Jan~C. Minx}.
-\newblock Coal transitions{\textemdash}part 1: A systematic map and review of
-  case study learnings from regional, national, and local coal phase-out
-  experiences.
-\newblock {\em Environmental Research Letters}, 16(11):113003, October 2021.
+\bibitem[{Fisch-Romito} et~al.(2021){Fisch-Romito}, Guivarch, Creutzig, Minx, and Callaghan]{fisch-romitoSystematicMapLiterature2021}
+{Fisch-Romito}, V. et~al.
+\newblock Systematic map of the literature on carbon lock-in induced by long-lived capital.
+\newblock \emph{Environmental Research Letters}, April 2021.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/aba660}.
 
-\bibitem{callaghan_machine-learning-based_2021}
-\FormatName{Max Callaghan}, \FormatName{Carl-Friedrich Schleussner},
-  \FormatName{Shruti Nath}, \FormatName{Quentin Lejeune}, \FormatName{Thomas~R.
-  Knutson}, \FormatName{Markus Reichstein}, \FormatName{Gerrit Hansen},
-  \FormatName{Emily Theokritoff}, \FormatName{Marina Andrijevic},
-  \FormatName{Robert~J. Brecha}, \FormatName{Michael Hegarty},
-  \FormatName{Chelsea Jones}, \FormatName{Kaylin Lee}, \FormatName{Agathe
-  Lucas}, \FormatName{Nicole {van Maanen}}, \FormatName{Inga Menke},
-  \FormatName{Peter Pfleiderer}, \FormatName{Burcu Yesil}, and
-  \FormatName{Jan~C. Minx}.
-\newblock Machine-learning-based evidence and attribution mapping of 100,000
-  climate impact studies.
-\newblock {\em Nature Climate Change}, 11(11):966--972, November 2021.
+\bibitem[Creutzig et~al.(2021)Creutzig, Callaghan, Ramakrishnan, Javaid, Niamir, Minx, {M{\"u}ller-Hansen}, Sovacool, Afroz, Andor, Antal, Court, Das, {D{\'i}az-Jos{\'e}}, D{\"o}bbe, Figueroa, Gouldson, Haberl, Hook, Ivanova, Lamb, Ma{\"i}zi, Mata, Nielsen, Onyige, Reisch, Roy, Scheelbeek, Sethi, Some, Sorrell, Tessier, Urmee, Vir{\'a}g, Wan, Wiedenhofer, and Wilson]{creutzigReviewingScopeThematic2021}
+Creutzig, F. et~al.
+\newblock Reviewing the scope and thematic focus of 100,000 publications on energy consumption, services and social aspects of climate change: A big data approach to demand-side mitigation.
+\newblock \emph{Environmental Research Letters}, 16\penalty0 (3):\penalty0 033001, February 2021.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/abd78b}.
 
-\bibitem{khanna_multi-country_2021}
-\FormatName{Tarun~M. Khanna}, \FormatName{Giovanni Baiocchi}, \FormatName{Max
-  Callaghan}, \FormatName{Felix Creutzig}, \FormatName{Horia Guias},
-  \FormatName{Neal~R. Haddaway}, \FormatName{Lion Hirth}, \FormatName{Aneeque
-  Javaid}, \FormatName{Nicolas Koch}, \FormatName{Sonja Laukemper},
-  \FormatName{Andreas L{\"o}schel}, \FormatName{Maria del~Mar
-  Zamora~Dominguez}, and \FormatName{Jan~C. Minx}.
-\newblock A multi-country meta-analysis on the role of behavioural change in
-  reducing energy consumption and {{CO2}} emissions in residential buildings.
-\newblock {\em Nature Energy}, 6(9):925--932, September 2021.
+\bibitem[{Berrang-Ford} et~al.(2021{\natexlab{a}}){Berrang-Ford}, Sietsma, Callaghan, Minx, Scheelbeek, Haddaway, Haines, and Dangour]{berrang-fordSystematicMappingGlobal2021}
+{Berrang-Ford}, L. et~al.
+\newblock Systematic mapping of global research on climate and health: A machine learning review.
+\newblock \emph{The Lancet Planetary Health}, 5\penalty0 (8):\penalty0 e514--e525, August 2021{\natexlab{a}}.
+\newblock ISSN 2542-5196.
+\newblock \doi{10.1016/S2542-5196(21)00179-0}.
 
-\bibitem{berrang-ford_systematic_2021-1}
-\FormatName{Lea {Berrang-Ford}}, \FormatName{A.~R. Siders},
-  \FormatName{Alexandra Lesnikowski}, \FormatName{Alexandra~Paige Fischer},
-  \FormatName{Max~W. Callaghan}, \FormatName{Neal~R. Haddaway},
-  \FormatName{Katharine~J. Mach}, \FormatName{Malcolm Araos},
-  \FormatName{Mohammad Aminur~Rahman Shah}, \FormatName{Mia Wannewitz},
-  \FormatName{Deepal Doshi}, \FormatName{Timo Leiter}, \FormatName{Custodio
-  Matavel}, \FormatName{Justice~Issah {Musah-Surugu}}, \FormatName{Gabrielle
-  {Wong-Parodi}}, \FormatName{Philip {Antwi-Agyei}}, \FormatName{Idowu
-  Ajibade}, \FormatName{Neha Chauhan}, \FormatName{William Kakenmaster},
-  \FormatName{Caitlin Grady}, \FormatName{Vasiliki~I. Chalastani},
-  \FormatName{Kripa Jagannathan}, \FormatName{Eranga~K. Galappaththi},
-  \FormatName{Asha Sitati}, \FormatName{Giulia Scarpa}, \FormatName{Edmond
-  Totin}, \FormatName{Katy Davis}, \FormatName{Nikita~Charles Hamilton},
-  \FormatName{Christine~J. Kirchhoff}, \FormatName{Praveen Kumar},
-  \FormatName{Brian Pentz}, \FormatName{Nicholas~P. Simpson}, \FormatName{Emily
-  Theokritoff}, \FormatName{Delphine Deryng}, \FormatName{Diana Reckien},
-  \FormatName{Carol {Zavaleta-Cortijo}}, \FormatName{Nicola Ulibarri},
-  \FormatName{Alcade~C. Segnon}, \FormatName{Vhalinavho Khavhagali},
-  \FormatName{Yuanyuan Shang}, \FormatName{Luckson Zvobgo}, \FormatName{Zinta
-  Zommers}, \FormatName{Jiren Xu}, \FormatName{Portia~Adade Williams},
-  \FormatName{Ivan~Villaverde Canosa}, \FormatName{Nicole {van Maanen}},
-  \FormatName{Bianca {van Bavel}}, \FormatName{Maarten {van Aalst}},
-  \FormatName{Lyn{\'e}e~L. {Turek-Hankins}}, \FormatName{Hasti Trivedi},
-  \FormatName{Christopher~H. Trisos}, \FormatName{Adelle Thomas},
-  \FormatName{Shinny Thakur}, \FormatName{Sienna Templeman},
-  \FormatName{Lindsay~C. Stringer}, \FormatName{Garry Sotnik},
-  \FormatName{Kathryn~Dana Sjostrom}, \FormatName{Chandni Singh},
-  \FormatName{Mariella~Z. Si{\~n}a}, \FormatName{Roopam Shukla},
-  \FormatName{Jordi Sardans}, \FormatName{Eunice~A. Salubi},
-  \FormatName{Lolita~Shaila Safaee~Chalkasra}, \FormatName{Raquel
-  {Ruiz-D{\'i}az}}, \FormatName{Carys Richards}, \FormatName{Pratik Pokharel},
-  \FormatName{Jan Petzold}, \FormatName{Josep Penuelas}, \FormatName{Julia
-  Pelaez~Avila}, \FormatName{Julia B.~Pazmino Murillo}, \FormatName{Souha
-  Ouni}, \FormatName{Jennifer Niemann}, \FormatName{Miriam Nielsen},
-  \FormatName{Mark New}, \FormatName{Patricia Nayna~Schwerdtle},
-  \FormatName{Gabriela Nagle~Alverio}, \FormatName{Cristina~A. Mullin},
-  \FormatName{Joshua Mullenite}, \FormatName{Anuszka Mosurska},
-  \FormatName{Mike~D. Morecroft}, \FormatName{Jan~C. Minx}, \FormatName{Gina
-  Maskell}, \FormatName{Abraham~Marshall Nunbogu}, \FormatName{Alexandre~K.
-  Magnan}, \FormatName{Shuaib Lwasa}, \FormatName{Megan {Lukas-Sithole}},
-  \FormatName{Tabea Lissner}, \FormatName{Oliver Lilford},
-  \FormatName{Steven~F. Koller}, \FormatName{Matthew Jurjonas},
-  \FormatName{Elphin~Tom Joe}, \FormatName{Lam T.~M. Huynh}, \FormatName{Avery
-  Hill}, \FormatName{Rebecca~R. Hernandez}, \FormatName{Greeshma Hegde},
-  \FormatName{Tom Hawxwell}, \FormatName{Sherilee Harper},
-  \FormatName{Alexandra Harden}, \FormatName{Marjolijn Haasnoot},
-  \FormatName{Elisabeth~A. Gilmore}, \FormatName{Leah Gichuki},
-  \FormatName{Alyssa Gatt}, \FormatName{Matthias Garschagen},
-  \FormatName{James~D. Ford}, \FormatName{Andrew Forbes}, \FormatName{Aidan~D.
-  Farrell}, \FormatName{Carolyn A.~F. Enquist}, \FormatName{Susan Elliott},
-  \FormatName{Emily Duncan}, \FormatName{Erin {Coughlan de Perez}},
-  \FormatName{Shaugn Coggins}, \FormatName{Tara Chen}, \FormatName{Donovan
-  Campbell}, \FormatName{Katherine~E. Browne}, \FormatName{Kathryn~J. Bowen},
-  \FormatName{Robbert Biesbroek}, \FormatName{Indra~D. Bhatt},
-  \FormatName{Rachel Bezner~Kerr}, \FormatName{Stephanie~L. Barr},
-  \FormatName{Emily Baker}, \FormatName{Stephanie~E. Austin},
-  \FormatName{Ingrid {Arotoma-Rojas}}, \FormatName{Christa Anderson},
-  \FormatName{Warda Ajaz}, \FormatName{Tanvi Agrawal}, and
-  \FormatName{Thelma~Zulfawu Abu}.
-\newblock A systematic global stocktake of evidence on human adaptation to
-  climate change.
-\newblock {\em Nature Climate Change}, 11(11):989--1000, November 2021.
+\bibitem[Diluiso et~al.(2021)Diluiso, Walk, Manych, Cerutti, Chipiga, Workman, Ayas, Cui, Cui, Song, Banisch, Moretti, Callaghan, Clarke, Creutzig, Hilaire, Jotzo, Kalkuhl, Lamb, L{\"o}schel, {M{\"u}ller-Hansen}, Nemet, Oei, Sovacool, Steckel, Thomas, Wiseman, and Minx]{diluisoCoalTransitionsPart2021}
+Diluiso, F. et~al.
+\newblock Coal transitions---part 1: A systematic map and review of case study learnings from regional, national, and local coal phase-out experiences.
+\newblock \emph{Environmental Research Letters}, 16\penalty0 (11):\penalty0 113003, October 2021.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/ac1b58}.
 
-\bibitem{fisch-romito_systematic_2021-1}
-\FormatName{Vivien {Fisch-Romito}}, \FormatName{Celine Guivarch},
-  \FormatName{Felix Creutzig}, \FormatName{Jan~C. Minx}, and \FormatName{Max~W.
-  Callaghan}.
-\newblock Systematic map of the literature on carbon lock-in induced by
-  long-lived capital.
-\newblock {\em Environmental Research Letters}, April 2021.
+\bibitem[Callaghan et~al.(2021)Callaghan, Schleussner, Nath, Lejeune, Knutson, Reichstein, Hansen, Theokritoff, Andrijevic, Brecha, Hegarty, Jones, Lee, Lucas, {van Maanen}, Menke, Pfleiderer, Yesil, and Minx]{callaghanMachinelearningbasedEvidenceAttribution2021}
+Callaghan, M. et~al.
+\newblock Machine-learning-based evidence and attribution mapping of 100,000 climate impact studies.
+\newblock \emph{Nature Climate Change}, 11\penalty0 (11):\penalty0 966--972, November 2021.
+\newblock ISSN 1758-6798.
+\newblock \doi{10.1038/s41558-021-01168-6}.
 
-\bibitem{berrang-ford_systematic_2021}
-\FormatName{Lea {Berrang-Ford}}, \FormatName{Anne~J. Sietsma}, \FormatName{Max
-  Callaghan}, \FormatName{Jan~C. Minx}, \FormatName{Pauline F.~D. Scheelbeek},
-  \FormatName{Neal~R. Haddaway}, \FormatName{Andy Haines}, and
-  \FormatName{Alan~D. Dangour}.
-\newblock Systematic mapping of global research on climate and health: A
-  machine learning review.
-\newblock {\em The Lancet Planetary Health}, 5(8):e514--e525, August 2021.
+\bibitem[{Berrang-Ford} et~al.(2021{\natexlab{b}}){Berrang-Ford}, Siders, Lesnikowski, Fischer, Callaghan, Haddaway, Mach, Araos, Shah, Wannewitz, Doshi, Leiter, Matavel, {Musah-Surugu}, {Wong-Parodi}, {Antwi-Agyei}, Ajibade, Chauhan, Kakenmaster, Grady, Chalastani, Jagannathan, Galappaththi, Sitati, Scarpa, Totin, Davis, Hamilton, Kirchhoff, Kumar, Pentz, Simpson, Theokritoff, Deryng, Reckien, {Zavaleta-Cortijo}, Ulibarri, Segnon, Khavhagali, Shang, Zvobgo, Zommers, Xu, Williams, Canosa, {van Maanen}, {van Bavel}, {van Aalst}, {Turek-Hankins}, Trivedi, Trisos, Thomas, Thakur, Templeman, Stringer, Sotnik, Sjostrom, Singh, Si{\~n}a, Shukla, Sardans, Salubi, Safaee~Chalkasra, {Ruiz-D{\'i}az}, Richards, Pokharel, Petzold, Penuelas, Pelaez~Avila, Murillo, Ouni, Niemann, Nielsen, New, Nayna~Schwerdtle, Nagle~Alverio, Mullin, Mullenite, Mosurska, Morecroft, Minx, Maskell, Nunbogu, Magnan, Lwasa, {Lukas-Sithole}, Lissner, Lilford, Koller, Jurjonas, Joe, Huynh, Hill, Hernandez, Hegde, Hawxwell, Harper, Harden, Haasnoot, Gilmore, Gichuki, Gatt, Garschagen, Ford, Forbes, Farrell, Enquist, Elliott, Duncan, {Coughlan de Perez}, Coggins, Chen, Campbell, Browne, Bowen, Biesbroek, Bhatt, Bezner~Kerr, Barr, Baker, Austin, {Arotoma-Rojas}, Anderson, Ajaz, Agrawal, and Abu]{berrang-fordSystematicGlobalStocktake2021}
+{Berrang-Ford}, L. et~al.
+\newblock A systematic global stocktake of evidence on human adaptation to climate change.
+\newblock \emph{Nature Climate Change}, 11\penalty0 (11):\penalty0 989--1000, November 2021{\natexlab{b}}.
+\newblock ISSN 1758-6798.
+\newblock \doi{10.1038/s41558-021-01170-y}.
 
-\bibitem{sietsma_progress_2021}
-\FormatName{Anne~J. Sietsma}, \FormatName{James~D. Ford}, \FormatName{Max~W.
-  Callaghan}, and \FormatName{Jan~C. Minx}.
+\bibitem[Sietsma et~al.(2021)Sietsma, Ford, Callaghan, and Minx]{sietsmaProgressClimateChange2021}
+Sietsma, A.J. et~al.
 \newblock Progress in climate change adaptation research.
-\newblock {\em Environmental Research Letters}, 16(5):054038, April 2021.
+\newblock \emph{Environmental Research Letters}, 16\penalty0 (5):\penalty0 054038, April 2021.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/abf7f3}.
 
-\bibitem{scheelbeek_effects_2021}
-\FormatName{Pauline F.~D. Scheelbeek}, \FormatName{Alan~D. Dangour},
-  \FormatName{Stephanie Jarmul}, \FormatName{Grace Turner}, \FormatName{Anne~J.
-  Sietsma}, \FormatName{Jan~C. Minx}, \FormatName{Max Callaghan},
-  \FormatName{Idowu Ajibade}, \FormatName{Stephanie~E. Austin},
-  \FormatName{Robbert Biesbroek}, \FormatName{Kathryn~J. Bowen},
-  \FormatName{Tara Chen}, \FormatName{Katy Davis}, \FormatName{Tim Ensor},
-  \FormatName{James~D. Ford}, \FormatName{Eranga~K. Galappaththi},
-  \FormatName{Elphin~T. Joe}, \FormatName{Issah~J. {Musah-Surugu}},
-  \FormatName{Gabriela~Nagle Alverio}, \FormatName{Patricia~Nayna Schwerdtle},
-  \FormatName{Pratik Pokharel}, \FormatName{Eunice~A. Salubi},
-  \FormatName{Giulia Scarpa}, \FormatName{Alcade~C. Segnon},
-  \FormatName{Mariella Si{\~n}a}, \FormatName{Sienna Templeman},
-  \FormatName{Jiren Xu}, \FormatName{Carol {Zavaleta-Cortijo}}, and
-  \FormatName{Lea {Berrang-Ford}}.
-\newblock The effects on public health of climate change adaptation responses:
-  A systematic review of evidence from low- and middle-income countries.
-\newblock {\em Environmental Research Letters}, 16(7):073001, July 2021.
+\bibitem[Khanna et~al.(2021)Khanna, Baiocchi, Callaghan, Creutzig, Guias, Haddaway, Hirth, Javaid, Koch, Laukemper, L{\"o}schel, Zamora~Dominguez, and Minx]{khannaMulticountryMetaanalysisRole2021}
+Khanna, T.M. et~al.
+\newblock A multi-country meta-analysis on the role of behavioural change in reducing energy consumption and {{CO2}} emissions in residential buildings.
+\newblock \emph{Nature Energy}, 6\penalty0 (9):\penalty0 925--932, September 2021.
+\newblock ISSN 2058-7546.
+\newblock \doi{10.1038/s41560-021-00866-x}.
 
-\bibitem{muller-hansen_who_2021}
-\FormatName{Finn {M{\"u}ller-Hansen}}, \FormatName{Max~W. Callaghan},
-  \FormatName{Yuan~Ting Lee}, \FormatName{Anna Leipprand},
-  \FormatName{Christian Flachsland}, and \FormatName{Jan~C. Minx}.
-\newblock Who cares about coal? {{Analyzing}} 70~years of {{German}}
-  parliamentary debates on coal with dynamic topic modeling.
-\newblock {\em Energy Research \& Social Science}, 72:101869, February 2021.
+\bibitem[Scheelbeek et~al.(2021)Scheelbeek, Dangour, Jarmul, Turner, Sietsma, Minx, Callaghan, Ajibade, Austin, Biesbroek, Bowen, Chen, Davis, Ensor, Ford, Galappaththi, Joe, {Musah-Surugu}, Alverio, Schwerdtle, Pokharel, Salubi, Scarpa, Segnon, Si{\~n}a, Templeman, Xu, {Zavaleta-Cortijo}, and {Berrang-Ford}]{scheelbeekEffectsPublicHealth2021}
+Scheelbeek, P.F.D. et~al.
+\newblock The effects on public health of climate change adaptation responses: A systematic review of evidence from low- and middle-income countries.
+\newblock \emph{Environmental Research Letters}, 16\penalty0 (7):\penalty0 073001, July 2021.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/ac092c}.
 
-\bibitem{callaghan_topography_2020}
-\FormatName{Max~W. Callaghan}, \FormatName{Jan~C. Minx}, and
-  \FormatName{Piers~M. Forster}.
+\bibitem[{M{\"u}ller-Hansen} et~al.(2021){M{\"u}ller-Hansen}, Callaghan, Lee, Leipprand, Flachsland, and Minx]{muller-hansenWhoCaresCoal2021}
+{M{\"u}ller-Hansen}, F. et~al.
+\newblock Who cares about coal? {{Analyzing}} 70~years of {{German}} parliamentary debates on coal with dynamic topic modeling.
+\newblock \emph{Energy Research \& Social Science}, 72:\penalty0 101869, February 2021.
+\newblock ISSN 2214-6296.
+\newblock \doi{10.1016/j.erss.2020.101869}.
+
+\bibitem[Callaghan et~al.(2020)Callaghan, Minx, and Forster]{callaghanTopographyClimateChange2020}
+Callaghan, M.W., Minx, J.C. and Forster, P.M.
 \newblock A topography of climate change research.
-\newblock {\em Nature Climate Change}, 10(2):118--123, February 2020.
+\newblock \emph{Nature Climate Change}, 10\penalty0 (2):\penalty0 118--123, February 2020.
+\newblock ISSN 1758-6798.
+\newblock \doi{10.1038/s41558-019-0684-5}.
 
-\bibitem{haddaway_use_2020}
-\FormatName{Neal~R. Haddaway}, \FormatName{Max~W. Callaghan},
-  \FormatName{Alexandra~M. Collins}, \FormatName{William~F. Lamb},
-  \FormatName{Jan~C. Minx}, \FormatName{James Thomas}, and \FormatName{Denny
-  John}.
+\bibitem[Haddaway et~al.(2020)Haddaway, Callaghan, Collins, Lamb, Minx, Thomas, and John]{haddawayUseComputerassistanceFacilitate2020}
+Haddaway, N.R. et~al.
 \newblock On the use of computer-assistance to facilitate systematic mapping.
-\newblock {\em Campbell Systematic Reviews}, 16(4):e1129, November 2020.
+\newblock \emph{Campbell Systematic Reviews}, 16\penalty0 (4):\penalty0 e1129, November 2020.
+\newblock ISSN 1891-1803.
+\newblock \doi{10.1002/cl2.1129}.
 
-\bibitem{callaghan_statistical_2020}
-\FormatName{Max Callaghan} and \FormatName{Finn {M{\"u}ller-Hansen}}.
-\newblock Statistical {{Stopping Criteria}} for {{Automated Screening}} in
-  {{Systematic Reviews}}.
-\newblock {\em Systematic Reviews}, September 2020.
+\bibitem[{M{\"u}ller-Hansen} et~al.(2020){M{\"u}ller-Hansen}, Callaghan, and Minx]{muller-hansenTextBigData2020}
+{M{\"u}ller-Hansen}, F., Callaghan, M.W. and Minx, J.C.
+\newblock Text as big data: {{Develop}} codes of practice for rigorous computational text analysis in energy social science.
+\newblock \emph{Energy Research \& Social Science}, 70:\penalty0 101691, December 2020.
+\newblock ISSN 2214-6296.
+\newblock \doi{10.1016/j.erss.2020.101691}.
 
-\bibitem{ivanova_quantifying_2020}
-\FormatName{Diana Ivanova}, \FormatName{John Barrett}, \FormatName{Dominik
-  Wiedenhofer}, \FormatName{Biljana Macura}, \FormatName{Max Callaghan}, and
-  \FormatName{Felix Creutzig}.
-\newblock Quantifying the potential for climate change mitigation of
-  consumption options.
-\newblock {\em Environmental Research Letters}, 15(9):093001, August 2020.
+\bibitem[Callaghan and {M{\"u}ller-Hansen}(2020)]{callaghanStatisticalStoppingCriteria2020}
+Callaghan, M. and {M{\"u}ller-Hansen}, F.
+\newblock Statistical {{Stopping Criteria}} for {{Automated Screening}} in {{Systematic Reviews}}.
+\newblock \emph{Systematic Reviews}, September 2020.
+\newblock \doi{10.21203/rs.2.18218/v2}.
 
-\bibitem{muller-hansen_text_2020}
-\FormatName{Finn {M{\"u}ller-Hansen}}, \FormatName{Max~W. Callaghan}, and
-  \FormatName{Jan~C. Minx}.
-\newblock Text as big data: {{Develop}} codes of practice for rigorous
-  computational text analysis in energy social science.
-\newblock {\em Energy Research \& Social Science}, 70:101691, December 2020.
+\bibitem[Ivanova et~al.(2020)Ivanova, Barrett, Wiedenhofer, Macura, Callaghan, and Creutzig]{ivanovaQuantifyingPotentialClimate2020}
+Ivanova, D. et~al.
+\newblock Quantifying the potential for climate change mitigation of consumption options.
+\newblock \emph{Environmental Research Letters}, 15\penalty0 (9):\penalty0 093001, August 2020.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/ab8589}.
 
-\bibitem{lamb_learning_2019}
-\FormatName{William~F. Lamb}, \FormatName{Felix Creutzig}, \FormatName{Max~W.
-  Callaghan}, and \FormatName{Jan~C. Minx}.
+\bibitem[Lamb et~al.(2019)Lamb, Creutzig, Callaghan, and Minx]{lambLearningUrbanClimate2019}
+Lamb, W.F. et~al.
 \newblock Learning about urban climate solutions from case studies.
-\newblock {\em Nature Climate Change}, 9(4):279--287, April 2019.
+\newblock \emph{Nature Climate Change}, 9\penalty0 (4):\penalty0 279--287, April 2019.
+\newblock ISSN 1758-6798.
+\newblock \doi{10.1038/s41558-019-0440-x}.
 
-\bibitem{hilaire_negative_2019}
-\FormatName{J{\'e}r{\^o}me Hilaire}, \FormatName{Jan~C. Minx},
-  \FormatName{Max~W. Callaghan}, \FormatName{Jae Edmonds}, \FormatName{Gunnar
-  Luderer}, \FormatName{Gregory~F. Nemet}, \FormatName{Joeri Rogelj}, and
-  \FormatName{Maria {del Mar Zamora}}.
-\newblock Negative emissions and international climate
-  goals{\textemdash}learning from and about mitigation scenarios.
-\newblock {\em Climatic Change}, 157(2):189--219, November 2019.
+\bibitem[Hilaire et~al.(2019)Hilaire, Minx, Callaghan, Edmonds, Luderer, Nemet, Rogelj, and {del Mar Zamora}]{hilaireNegativeEmissionsInternational2019}
+Hilaire, J. et~al.
+\newblock Negative emissions and international climate goals---learning from and about mitigation scenarios.
+\newblock \emph{Climatic Change}, 157\penalty0 (2):\penalty0 189--219, November 2019.
+\newblock ISSN 1573-1480.
+\newblock \doi{10.1007/s10584-019-02516-4}.
 
-\bibitem{nemet_negative_2018}
-\FormatName{Gregory~F. Nemet}, \FormatName{Max~W. Callaghan}, \FormatName{Felix
-  Creutzig}, \FormatName{Sabine Fuss}, \FormatName{Jens Hartmann},
-  \FormatName{J{\'e}r{\^o}me Hilaire}, \FormatName{William~F. Lamb},
-  \FormatName{Jan~C. Minx}, \FormatName{Sophia Rogers}, and \FormatName{Pete
-  Smith}.
-\newblock Negative emissions{\textemdash}{{Part}} 3: {{Innovation}} and
-  upscaling.
-\newblock {\em Environmental Research Letters}, 13(6):063003, May 2018.
+\bibitem[Minx et~al.(2018)Minx, Lamb, Callaghan, Fuss, Hilaire, Creutzig, Amann, Beringer, Garcia, Hartmann, Khanna, Lenzi, Luderer, Nemet, Rogelj, Smith, Vicente, Wilcox, and Dominguez]{minxNegativeEmissionsPart2018}
+Minx, J.C. et~al.
+\newblock Negative emissions---{{Part}} 1: {{Research}} landscape and synthesis.
+\newblock \emph{Environmental Research Letters}, 13\penalty0 (6):\penalty0 063001, May 2018.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/aabf9b}.
 
-\bibitem{minx_negative_2018}
-\FormatName{Jan~C. Minx}, \FormatName{William~F. Lamb}, \FormatName{Max~W.
-  Callaghan}, \FormatName{Sabine Fuss}, \FormatName{J{\'e}r{\^o}me Hilaire},
-  \FormatName{Felix Creutzig}, \FormatName{Thorben Amann}, \FormatName{Tim
-  Beringer}, \FormatName{Wagner de~Oliveira Garcia}, \FormatName{Jens
-  Hartmann}, \FormatName{Tarun Khanna}, \FormatName{Dominic Lenzi},
-  \FormatName{Gunnar Luderer}, \FormatName{Gregory~F. Nemet}, \FormatName{Joeri
-  Rogelj}, \FormatName{Pete Smith}, \FormatName{Jose Luis~Vicente Vicente},
-  \FormatName{Jennifer Wilcox}, and \FormatName{Maria del Mar~Zamora
-  Dominguez}.
-\newblock Negative emissions{\textemdash}{{Part}} 1: {{Research}} landscape and
-  synthesis.
-\newblock {\em Environmental Research Letters}, 13(6):063001, May 2018.
-
-\bibitem{lamb_literature_2018}
-\FormatName{William~F Lamb}, \FormatName{Max~W Callaghan}, \FormatName{Felix
-  Creutzig}, \FormatName{Radhika Khosla}, and \FormatName{Jan~C Minx}.
+\bibitem[Lamb et~al.(2018)Lamb, Callaghan, Creutzig, Khosla, and Minx]{lambLiteratureLandscape15degC2018}
+Lamb, W.F. et~al.
 \newblock The literature landscape on 1.5[deg]{{C}} climate change and cities.
-\newblock {\em Current Opinion in Environmental Sustainability}, 30:26--34,
-  February 2018.
+\newblock \emph{Current Opinion in Environmental Sustainability}, 30:\penalty0 26--34, February 2018.
+\newblock ISSN 1877-3435.
+\newblock \doi{10.1016/j.cosust.2018.02.008}.
 
-\bibitem{fuss_negative_2018}
-\FormatName{Sabine Fuss}, \FormatName{William~F. Lamb}, \FormatName{Max~W.
-  Callaghan}, \FormatName{J{\'e}r{\^o}me Hilaire}, \FormatName{Felix Creutzig},
-  \FormatName{Thorben Amann}, \FormatName{Tim Beringer}, \FormatName{Wagner
-  de~Oliveira Garcia}, \FormatName{Jens Hartmann}, \FormatName{Tarun Khanna},
-  \FormatName{Gunnar Luderer}, \FormatName{Gregory~F. Nemet}, \FormatName{Joeri
-  Rogelj}, \FormatName{Pete Smith}, \FormatName{Jos{\'e} Luis~Vicente Vicente},
-  \FormatName{Jennifer Wilcox}, \FormatName{Maria del Mar~Zamora Dominguez},
-  and \FormatName{Jan~C. Minx}.
-\newblock Negative emissions{\textemdash}{{Part}} 2: {{Costs}}, potentials and
-  side effects.
-\newblock {\em Environmental Research Letters}, 13(6):063002, May 2018.
+\bibitem[Nemet et~al.(2018)Nemet, Callaghan, Creutzig, Fuss, Hartmann, Hilaire, Lamb, Minx, Rogers, and Smith]{nemetNegativeEmissionsPart2018}
+Nemet, G.F. et~al.
+\newblock Negative emissions---{{Part}} 3: {{Innovation}} and upscaling.
+\newblock \emph{Environmental Research Letters}, 13\penalty0 (6):\penalty0 063003, May 2018.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/aabff4}.
 
-\bibitem{minx_learning_2017}
-\FormatName{Jan~C. Minx}, \FormatName{Max Callaghan}, \FormatName{William~F.
-  Lamb}, \FormatName{Jennifer Garard}, and \FormatName{Ottmar Edenhofer}.
+\bibitem[Fuss et~al.(2018)Fuss, Lamb, Callaghan, Hilaire, Creutzig, Amann, Beringer, Garcia, Hartmann, Khanna, Luderer, Nemet, Rogelj, Smith, Vicente, Wilcox, Dominguez, and Minx]{fussNegativeEmissionsPart2018}
+Fuss, S. et~al.
+\newblock Negative emissions---{{Part}} 2: {{Costs}}, potentials and side effects.
+\newblock \emph{Environmental Research Letters}, 13\penalty0 (6):\penalty0 063002, May 2018.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/aabf9f}.
+
+\bibitem[Minx et~al.(2017{\natexlab{a}})Minx, Callaghan, Lamb, Garard, and Edenhofer]{minxLearningClimateChange2017}
+Minx, J.C. et~al.
 \newblock Learning about climate change solutions in the {{IPCC}} and beyond.
-\newblock {\em Environmental Science \& Policy}, 77:252--259, November 2017.
+\newblock \emph{Environmental Science \& Policy}, 77:\penalty0 252--259, November 2017{\natexlab{a}}.
+\newblock ISSN 1462-9011.
+\newblock \doi{10.1016/j.envsci.2017.05.014}.
 
-\bibitem{minx_fast_2017}
-\FormatName{Jan~C. Minx}, \FormatName{William~F. Lamb}, \FormatName{Max~W.
-  Callaghan}, \FormatName{Lutz Bornmann}, and \FormatName{Sabine Fuss}.
+\bibitem[Minx et~al.(2017{\natexlab{b}})Minx, Lamb, Callaghan, Bornmann, and Fuss]{minxFastGrowingResearch2017}
+Minx, J.C. et~al.
 \newblock Fast growing research on negative emissions.
-\newblock {\em Environmental Research Letters}, 12(3):035007, March 2017.
+\newblock \emph{Environmental Research Letters}, 12\penalty0 (3):\penalty0 035007, March 2017{\natexlab{b}}.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/aa5ee5}.
 
-\bibitem{stechow_2degc_2016}
-\FormatName{Christoph von Stechow}, \FormatName{Jan~C. Minx},
-  \FormatName{Keywan Riahi}, \FormatName{Jessica Jewell}, \FormatName{David~L.
-  McCollum}, \FormatName{Max~W. Callaghan}, \FormatName{Christoph Bertram},
-  \FormatName{Gunnar Luderer}, and \FormatName{Giovanni Baiocchi}.
+\bibitem[von Stechow et~al.(2016)von Stechow, Minx, Riahi, Jewell, McCollum, Callaghan, Bertram, Luderer, and Baiocchi]{stechow2degCSDGsUnited2016}
+von Stechow, C. et~al.
 \newblock 2[deg]{{C}} and {{SDGs}}: United they stand, divided they fall?
-\newblock {\em Environmental Research Letters}, 11(3):034022, March 2016.
+\newblock \emph{Environmental Research Letters}, 11\penalty0 (3):\penalty0 034022, March 2016.
+\newblock ISSN 1748-9326.
+\newblock \doi{10.1088/1748-9326/11/3/034022}.
 
 \end{thebibliography}

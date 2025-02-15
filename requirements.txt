@@ -1,0 +1,4 @@
+bibtexparser
+jinja2
+numpy
+pylatexenc

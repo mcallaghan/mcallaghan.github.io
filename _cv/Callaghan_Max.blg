@@ -1,48 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Callaghan_Max.aux
 The style file: myunsrtnat.bst
 Database file #1: ../bibliography/callaghan-publications.bib
-Warning--empty journal in callaghan_what_2022
-You've used 35 entries,
-            1795 wiz_defined-function locations,
-            632 strings with 25932 characters,
-and the built_in function-call counts, 19747 in all, are:
-= -- 691
-> -- 2683
-< -- 0
-+ -- 906
-- -- 871
-* -- 3983
-:= -- 3623
-add.period$ -- 105
-call.type$ -- 35
-change.case$ -- 36
-chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 307
-empty$ -- 765
-format.name$ -- 871
-if$ -- 3248
-int.to.chr$ -- 0
-int.to.str$ -- 35
-missing$ -- 34
-newline$ -- 178
-num.names$ -- 35
-pop$ -- 46
+Warning--empty journal in callaghanWhatEvidenceClimate2022
+You've used 44 entries,
+            2515 wiz_defined-function locations,
+            885 strings with 37760 characters,
+and the built_in function-call counts, 31920 in all, are:
+= -- 1728
+> -- 3983
+< -- 1
++ -- 1419
+- -- 1283
+* -- 3641
+:= -- 6191
+add.period$ -- 214
+call.type$ -- 44
+change.case$ -- 89
+chr.to.int$ -- 42
+cite$ -- 45
+duplicate$ -- 869
+empty$ -- 1575
+format.name$ -- 1373
+if$ -- 5940
+int.to.chr$ -- 3
+int.to.str$ -- 45
+missing$ -- 43
+newline$ -- 310
+num.names$ -- 132
+pop$ -- 284
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 44
 quote$ -- 0
-skip$ -- 104
+skip$ -- 442
 stack$ -- 0
-substring$ -- 626
-swap$ -- 33
+substring$ -- 865
+swap$ -- 130
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 308
 warning$ -- 1
-while$ -- 75
-width$ -- 37
-write$ -- 382
+while$ -- 137
+width$ -- 0
+write$ -- 738
 (There was 1 warning)
