@@ -1,0 +1,110 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+%% ModernCV themes
+\moderncvstyle{casual} %or casual
+\moderncvcolor{grey}
+%\renewcommand{\familydefault}{\sfdefault}
+\nopagenumbers{}
+
+%% Character encoding
+\usepackage{ucs}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[round, sort, numbers]{natbib}
+\usepackage{xstring}
+\usepackage{etoolbox}
+%\usepackage{eurosym}
+\usepackage{textcomp}
+
+\usepackage{xstring}
+\def\FormatName#1{%
+	\IfSubStr{#1}{Callaghan}{\textbf{#1}}{#1}%
+}
+
+\title{Publications}
+
+%% Adjust the page margins
+\usepackage[scale=0.75]{geometry}
+
+%% Personal data
+\name{\color{color1}Max}{Callaghan}
+
+%\title{Resumé title (optional)} 
+%\phone{+2~(345)~678~901} 
+%\fax{+3~(456)~789~012} 
+%\homepage{www.johndoe.com} 
+%\extrainfo{additional information} 
+%\photo[64pt][0.4pt]{picture}
+%\quote{Some quote (optional)}
+
+%%------------------------------------------------------------------------------
+%% Content
+%%------------------------------------------------------------------------------
+\begin{document}
+
+\patchcmd{\thebibliography}{\section{\refname}}{}{}{}
+\renewcommand{\bibliographyhead}[1]{}	
+	
+\makecvtitle
+
+%\input{../../cv/2024/BMDV/coverletter.tex}
+%\newpage
+
+
+% \section{Work in Progress}
+
+% \cvitem{Climate policy}{What is the evidence on climate mitigation policies, and to what extent can it be identified and classified using Machine Learning?}
+
+% \cvitem{Climate and Health}{Attributing the impacts of climate change on health to human influence on the climate}
+
+% \cvitem{ML-assisted review}{Biased urns for precise stopping criteria in machine learning-assisted systematic review screening}
+
+\section{Peer Reviewed Publications}
+
+\medskip
+\renewcommand{\bibsection}{}
+
+\input{nocite.tex}
+
+\bibliographystyle{myunsrtnat}
+\bibliography{../bibliography/callaghan-publications}
+
+\section{Non peer reviewed publications}
+
+\cventry{July 2022}{Here are the most effective things you can do to fight climate change}{Guest post for the Conversation}{\href{https://theconversation.com/here-are-the-most-effective-things-you-can-do-to-fight-climate-change-183555}{link}}{}{}
+\cventry{November 2021}{What 100,000 studies tell us about climate impacts around the world}{Guest post for Carbon Brief}{\href{https://www.carbonbrief.org/guest-post-what-100000-studies-tell-us-about-climate-impacts-around-the-world/}{link}}{}{}
+
+\section{Software}
+
+\cventry{NACSOS}{A Django site for managing collections of documents, screening or coding them, and doing NLP tasks with them like topic modelling or classification}{\url{https://doi.org/10.5281/zenodo.4121526}}{}{}{}
+\cventry{Climate and Health Map}{An interactive site built with Dash to present the results of a machine learning-assisted systematic map of climate and health literature}{\url{https://apsis.mcc-berlin.net/climate-health/}}{}{}{}
+\cventry{The Homeromanteion}{A digitized version of the ancient method of divination using Homeric poetry}{\url{http://homeromanteion.com/}}{}{}{}
+\cventry{BuscarR}{An R package to support safe early stopping during machine learning prioritised screening}{\url{https://mcallaghan.github.io/buscarR/}}{}{}{}
+\cventry{Buscarpy}{A Python package to support safe early stopping during machine learning prioritised screening}{\url{https://buscarpy.readthedocs.io/}}{}{}{}
+
+\section{Conferences and Talks}
+
+\cventry{Conference Presentation}{Evidence Synthesis Methodologies for accelerated learning on what works in climate}{Global Evidence Summit}{Prague}{September 11 2024}{}{}
+
+\cventry{Poster Presentation}{The safe use of LLMs for automated screening}{Global Evidence Summit}{Prague}{September 11 2024}{}{}
+
+\cventry{Invited Keynote}{Opportunities and challenges in using NLP to assist evidence synthesis}{Text-as-data in Hydrology, Natural Hazards, and Climate Change Research}{Potsdam}{March 1 2024}{}{}
+
+
+\cventry{Poster Presentation}{BUSCAR: Biased Urn-based Stopping Criteria for technology Assisted Reviews}{Cochrane Colloquium}{London}{September 6 2023}{}{}
+
+\cventry{Invited Talk}{Natural Language Processing for climate change texts at the science-policy interface}{Climate Change AI Berlin Brandenburg}{Berlin}{July 6 2022}{}{}
+
+\cventry{Invited Webinar}{Machine Reading the Growing Climate Science and Adaptation Literature}{Climate Change AI}{Online}{May 13 2022}{}{}
+
+\cventry{Invited Webinar}{A database of 100,000 studies on attributable climate impacts derived with machine learning: methodology and potential uses or follow-up analyses}{PROCLIAS - Process-based models for climate impact attribution across sectors}{Online}{May 09 2022}{}{}
+
+\cventry{Invited Talk}{Statistical stopping criterial for automated screening in systematic reviews}{Evidence Synthesis \& Meta-Analysis in R}{Online Conference}{January 18 2021}{}{}
+
+\cventry{Conference Presentation}{Machine learning for systematically mapping the climate change literature}{Applied Machine Learning Days}{EPFL,  Lausanne}{February 01 2020}{}{}
+
+\cventry{Conference Presentation}{A Topography of Climate Change Research}{EGU}{Vienna}{April 09 2019}{}{}
+
+\cventry{Conference Presentation}{A Topography of Climate Change Research}{EASST}{Lancaster}{July 26 2018}{}{}
+
+\end{document}

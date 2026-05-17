@@ -43,6 +43,8 @@ print(dates)
 
 n = 0
 
+author_set = set([])
+
 with open("_cv/nocite.tex", "w") as ncf:
     for i in np.argsort(dates)[::-1]:
         
@@ -57,6 +59,8 @@ with open("_cv/nocite.tex", "w") as ncf:
         e["title"] = e["title"].replace("{","").replace("}","")
         fname = f"_publications/{n:03d}.md"
         authors = e["author"].split(" and ")
+        for a in authors:
+            author_set.add(a.split(',')[0].replace('{','').replace('}',''))
         authors = ["<b>"+x+"</b>" if "Callaghan" in x else x for x in authors]
         e["author"] = ", ".join(authors)
         if "journal" in e:
@@ -66,3 +70,6 @@ with open("_cv/nocite.tex", "w") as ncf:
         ncf.write("\n")
         with open(fname, "w") as f:
             f.write(template.render({"e":e, "i": n}))
+
+print(author_set)
+print(len(author_set))

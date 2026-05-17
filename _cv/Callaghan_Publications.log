@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.21)  8 AUG 2025 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.21)  10 OCT 2025 11:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/maxca/Documents/admin/applications/academicpages.github.io/_cv/Callaghan_Max.tex
-(/home/maxca/Documents/admin/applications/academicpages.github.io/_cv/Callaghan_Max.tex
+**/home/maxca/Documents/admin/applications/academicpages.github.io/_cv/Callaghan_Publications.tex
+(/home/maxca/Documents/admin/applications/academicpages.github.io/_cv/Callaghan_Publications.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -139,8 +139,8 @@ Package: moderncvcompatibility 2022-02-21 v2.3.1 modern curriculum vitae and let
 \cvcolumnsautowidth=\skip66
 \cvcolumnautowidth=\skip67
 \bibindent=\skip68
-) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
-Package: moderncvstyleclassic 2022-02-21 v2.3.1 modern curriculum vitae and letter style scheme: classic
+) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
+Package: moderncvstylecasual 2022-02-21 v2.3.1 modern curriculum vitae and letter style scheme: casual
  (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconssymbols.sty
 Package: moderncviconssymbols 2021-12-12 v2.2.0 modern curriculum vitae icons selector
 
@@ -334,25 +334,28 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count287
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))))) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadi.sty
-Package: moderncvheadi 2022-02-21 v2.3.1 modern curriculum vitae and letter header variant: 1
-\quotewidth=\skip69
-\makecvheadnamewidth=\skip70
+))))) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadii.sty
+Package: moderncvheadii 2022-02-21 v2.3.1 modern curriculum vitae and letter header variant: 2
+\makeheaddetailsbox=\box66
+\makeheaddetailstempbox=\box67
+\makeheaddetailswidth=\skip69
+\makeheaddetailsboxwidth=\skip70
+\quotewidth=\skip71
 ) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
 Package: moderncvbodyi 2022-02-21 v2.3.1 modern curriculum vitae and letter body variant: 1
  (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvskillmatrix.sty
 Package: moderncvskillmatrix 2022-02-21 v2.3.1 modern curriculum vitae and letter skill matrix
  (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip71
+\multirow@colwidth=\skip72
 \multirow@cntb=\count288
-\multirow@dima=\skip72
+\multirow@dima=\skip73
 \bigstrutjot=\dimen197
 ) (/usr/share/texlive/texmf-dist/tex/latex/arydshln/arydshln.sty
 Package: arydshln 2019/02/21 v1.76 
 \dashlinedash=\dimen198
 \dashlinegap=\dimen199
-\adl@box=\box66
+\adl@box=\box68
 \adl@height=\dimen256
 \adl@heightsave=\dimen257
 \adl@depth=\dimen258
@@ -371,38 +374,44 @@ Package: arydshln 2019/02/21 v1.76
 \adl@everyvbox=\toks34
 \adl@LTpagetotal=\dimen261
 )
-\cvSkill@RectangleSize=\skip73
+\cvSkill@RectangleSize=\skip74
 \my@repeat@count=\count299
-\cvskill@width=\skip74
-\cvskill@descriptorwidth=\skip75
-\cvskill@experiencewidth=\skip76
-\skillmatrix@columnwidth=\skip77
-\skillmatrix@commentwidth=\skip78
-\skillmatrix@padding=\skip79
-\skillmatrix@hintscolumnwidth=\skip80
-\skillmatrix@bodylength=\skip81
-\cvskilllegend@leftdescriptorwidth=\skip82
-\cvskilllegend@rightdescriptorwidth=\skip83
-\skilllegend@hintscolumnwidth=\skip84
-\skilllegend@padding=\skip85
-\skilllegend@bodylength=\skip86
-\separatorrulewidth=\skip87
+\cvskill@width=\skip75
+\cvskill@descriptorwidth=\skip76
+\cvskill@experiencewidth=\skip77
+\skillmatrix@columnwidth=\skip78
+\skillmatrix@commentwidth=\skip79
+\skillmatrix@padding=\skip80
+\skillmatrix@hintscolumnwidth=\skip81
+\skillmatrix@bodylength=\skip82
+\cvskilllegend@leftdescriptorwidth=\skip83
+\cvskilllegend@rightdescriptorwidth=\skip84
+\skilllegend@hintscolumnwidth=\skip85
+\skilllegend@padding=\skip86
+\skilllegend@bodylength=\skip87
+\separatorrulewidth=\skip88
 )
-\hintscolumnwidth=\skip88
-\separatorcolumnwidth=\skip89
-\maincolumnwidth=\skip90
-\doubleitemcolumnwidth=\skip91
-\listitemsymbolwidth=\skip92
+\hintscolumnwidth=\skip89
+\separatorcolumnwidth=\skip90
+\maincolumnwidth=\skip91
+\doubleitemcolumnwidth=\skip92
+\listitemsymbolwidth=\skip93
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 48.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
-\listitemcolumnwidth=\skip93
-\listdoubleitemcolumnwidth=\skip94
-\baseletterheight=\skip95
-\cvitemwithcommentbox=\box67
-\cvitemwithcommentskilllength=\skip96
-\cvitemwithcommentcommentlength=\skip97
-)) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorblue.sty
-Package: moderncvcolorblue 2022-02-21 v2.3.1 modern curriculum vitae and letter color scheme: blue
+\listitemcolumnwidth=\skip94
+\listdoubleitemcolumnwidth=\skip95
+\baseletterheight=\skip96
+\cvitemwithcommentbox=\box69
+\cvitemwithcommentskilllength=\skip97
+\cvitemwithcommentcommentlength=\skip98
+) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvfooti.sty
+Package: moderncvfooti 2022-02-21 v2.3.1 modern curriculum vitae and letter footer variant: 1
+\footwidth=\skip99
+\footbox=\box70
+\foottempbox=\box71
+\footboxwidth=\skip100
+)) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorgrey.sty
+Package: moderncvcolorgrey 2022-02-21 v2.3.1 modern curriculum vitae and letter color scheme: grey
 ) (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2023/11/09 v2.4 UCS: Unicode input support
  (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
@@ -418,13 +427,10 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks39
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 112.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip98
-\bibsep=\skip99
+\bibhang=\skip101
+\bibsep=\skip102
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count301
 ) (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
@@ -432,9 +438,6 @@ LaTeX Info: Redefining \cite on input line 694.
 \xs_countb=\count303
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-) (/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
-Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box68
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
@@ -553,12 +556,29 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip100
+\Hy@SectionHShift=\skip103
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 43.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 43.
- (./Callaghan_Max.aux)
-\openout1 = `Callaghan_Max.aux'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 43.
+
+(./Callaghan_Publications.aux)
+\openout1 = `Callaghan_Publications.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
@@ -578,11 +598,14 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 43.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count318
 \scratchdimen=\dimen274
-\scratchbox=\box69
+\scratchbox=\box72
 \nofMPsegments=\count319
 \nofMParguments=\count320
 \everyMPshowfont=\toks41
@@ -655,29 +678,16 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 43.
-(./Callaghan_Max.out) (./Callaghan_Max.out)
+(./Callaghan_Publications.out) (./Callaghan_Publications.out)
 \@outlinefile=\write4
-\openout4 = `Callaghan_Max.out'.
+\openout4 = `Callaghan_Publications.out'.
 
-\makecvheaddetailsbox=\box70
- (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 48.
- (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 48.
- (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-\makecvheadpicturebox=\box71
-\makecvheaddetailswidth=\skip101
-\makecvheadpicturewidth=\skip102
-\makecvheadnamebox=\box72
+\makecvheadpicturebox=\box73
+\makecvheadpicturewidth=\skip104
+\makecvheadnamebox=\box74
 
 
-LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <34> not available
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <38> not available
 (Font)              size <35.83> substituted on input line 48.
 
 
@@ -685,18 +695,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
 
  []
 
-[1
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) (./nocite.tex) (./Callaghan_Publications.bbl [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 107.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 160.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2] [3]) [4]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 79.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -704,7 +708,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (./nocite.tex) (./Callaghan_Max.bbl [2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3] [4] [5] [6] [7] [8] [9] [10]) [11] [12] (./Callaghan_Max.aux)
+ [5] [6] (./Callaghan_Publications.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -712,24 +716,24 @@ L3 programming layer <2024-01-22>
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.83pt have occurred.
+(Font)              up to 2.17pt have occurred.
 
-Package rerunfilecheck Info: File `Callaghan_Max.out' has not changed.
-(rerunfilecheck)             Checksum: 48F6D0C8F3D6F90C2855D3C57FD35023;1599.
+Package rerunfilecheck Info: File `Callaghan_Publications.out' has not changed.
+(rerunfilecheck)             Checksum: 4F457F48AB8D7B2EBB33709251C81953;618.
  ) 
 Here is how much of TeX's memory you used:
- 27352 strings out of 476056
- 523147 string characters out of 5791604
- 1960975 words of memory out of 5000000
- 48622 multiletter control sequences out of 15000+600000
- 582725 words of font info for 180 fonts, out of 8000000 for 9000
+ 27163 strings out of 476056
+ 520175 string characters out of 5791604
+ 1947975 words of memory out of 5000000
+ 48511 multiletter control sequences out of 15000+600000
+ 578815 words of font info for 151 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 129i,12n,129p,4127b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfst1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Callaghan_Max.pdf (12 pages, 273234 bytes).
+ 129i,12n,129p,1524b,632s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfst1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on Callaghan_Publications.pdf (6 pages, 151419 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
- 35949 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 25133 words of extra memory for PDF output out of 29859 (max. 10000000)
 

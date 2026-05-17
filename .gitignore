@@ -2,4 +2,7 @@ _site/
 *.bbl
 *.aux
 *.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
 venv/
